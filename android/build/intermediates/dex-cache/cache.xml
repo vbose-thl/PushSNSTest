@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/me.leolin/ShortcutBadger/1.1.8/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="531c33d3697000a05e9493a2d0f09ba41fa114d3">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/me.leolin-ShortcutBadger-1.1.8_eed9a7fd39bb942052413405388815b9c5ed45a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_5331b2ed42611cf2fde307c6b590c43fc925fe57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_5f6f8084d80cfd58e8a4f4fecc22c9db8696b904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_722f524c61cbb98602e13d9a50c71f554092dad4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-11.0.4_0570501c7eb5b1fdf0ca4b8416db2e9634a062e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-11.0.4_be8876115fd07e39b1373379a4e7cf7ef6d24978.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_0e26636c28353fd1ba3feae2b334a2420f6d4939.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_551f83fd28cc8c3f38d768b26dcebf0cd3ab151d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_df71b418d13cb0b6e85f57b546a02d45c3fe2d9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_5911fb4ab7fd584a874972c8decee983f53724a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_63285ca5e4a34023618dd4f94a3aa02c0b31c27c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_c70dc164a261e3d5410c53c00661ce131f41ff08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_ff5f1aac78ec429c68348f1a8affeb26aa06f92e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_00692180652fa1c4734ff801d81b0d2d739b6a58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_9607903b04adba5e1755dad6962f5462b5c63a04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_ce9fad6fe6f439cd43b612ed919cba296b182598.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_f5f154713d436d2b6496be40c484145eaa594a69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.4_0bcf4522557ad0208d07b4394eb3d96d49eabd19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_a15961ff050d3846dc3f814cec85f16c849b81b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_75472b1b649463fc7780fcd105570bbec0a2862e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_364831787b14b2ee2adb59ac5a04e400317bed0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_3780e0c2ef6d938db3cb759268b7aaaf81491ec7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_9ca3f454fe7fea1f1a024a86256f5991f00c1afe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_c2cb2405b21e90a6395eb60603140d1ec424d349.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_9d868333ee25f0bcba7a1624200df224f1e65b23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_a8ecc2e48caf62c6eebda10980a80081235e637b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_a8e79ed790cc3cafe3d0f1e4699a6baf77dbbee2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_fa9e90e56154c113e4ba32558f03e2b685b9d49a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_79ee30f390aeeddc8cfe093f4e483c01b7fc721c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_12d2eca42f766adf2d363b17a5639445ccfb0dff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_a2813bbd206ccc47957169f5ad5d17d45783de8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/exploded-aar/PushSNSTest/react-native-push-notification/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2cde319087db2efb5405930849f9c861fca0197b">
+        <dex dex="/Users/vijayendrabose/Documents/Projects/PushSNSTest/android/app/build/intermediates/pre-dexed/debug/PushSNSTest-react-native-push-notification-unspecified_6d9372b80e6fbe6bc39e4a35fab253e92c6f67e8.jar" />
+    </item>
+
+</items>
